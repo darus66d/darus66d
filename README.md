@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Hello, I'm Md. Darus Salam , a Flutter developer based in Dhaka, Bangladesh. I'm passionate about creating beautiful and functional mobile apps using the Flutter framework.
+Hello, I'm **Md. Darus Salam** , a Flutter developer based in Dhaka, Bangladesh. I'm passionate about creating beautiful and functional mobile apps using the Flutter framework.
 
 With One years of experience in mobile app development, I have honed my skills in Flutter. I have worked on various projects that have given me the opportunity to develop cross-platform mobile apps with Flutter, integrating APIs, and using third-party libraries.
 
