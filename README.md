@@ -8,7 +8,7 @@ Feel free to check out my GitHub repositories and connect with me if you're look
 Skills: Flutter/Dart
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning F;utter 
+- 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Flutter Development 
 - 📫 How to reach me: https://www.linkedin.com/in/darus66d/ 
