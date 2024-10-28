@@ -10,7 +10,7 @@ Skills: Flutter/Dart
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Flutter Development 
+- 💬 Ask me about Flutter & Dart
 - 📫 How to reach me: https://www.linkedin.com/in/darus66d/ 
 
 
